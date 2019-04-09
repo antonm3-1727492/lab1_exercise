@@ -1,14 +1,11 @@
-# Lab Exercise
-Using the text-edit of your choice (e.g., Atom), create a new file called `PROFILE.md`.
+# Marc Joshua Antonio
+## University of Washington
+### Sophmore
 
-In this exercise, you will create a mini profile of yourself.
+![Alt Text](imgs/Profile Pic.jpg)
 
-In your `PROFILE.md` document, format a title as header with your name as H1, University of Washington as H2, and your class standing as H3
-
-Next, you will insert a photo of yourself using **relative path**.
-
-Then, write a little description about yourself with at least 2 different format stylings like **bold**, or *italicized*.
-
-Next, rank your favorite foods in an **unordered** list.
-
-Lastly, put your favorite quote in a block quote, and provide a link to a website that provides additional information about the quote.
+**Hello. I am Marc Antonio. I live in Sammamish, Washington.**
+*I like to hang out with friends in my spare time and I'm looking to become a CSE major.*
+- Fried Rice
+- Ramen
+- Sushi
